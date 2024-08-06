@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fm",
+  "name": "Bedwars Items",
+  "description": "Use bedwars items but in singleplayer",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ungoisy"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

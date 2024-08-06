@@ -1,0 +1,10 @@
+
+item.bw_fireball.name=Bedwars Fireball
+item.bridge_egg.name=Green Bridge Egg
+item.bridge_egg_red.name=Red Bridge Egg
+item.bw_tnt.name=Bedwars TNT
+
+tile.blast_proof_glass.name=Green Blast Proof Glass
+tile.blast_proof_glass_red.name=Red Blast Proof Glass
+
+itemGroup.mod_items_tab=Mod items
